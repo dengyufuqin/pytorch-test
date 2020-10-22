@@ -1,0 +1,7 @@
+1.数据集：猫狗大战，训练Epoch：50，Linear_rate：0.001，梯度下降法：SGD+momentum，对比model及trick后的准确率，损失值变化
+	MobileNetV3: train_acc: 1	train_loss: 0.0009	test_acc: 0.97
+	MobileNetV2: train_acc: 1	train_loss: 0.006	test_acc: 0.955 	
+	MobileNetV1: train_acc: 1	train_loss: 0.02	test_acc: 0.95 	
+	ResNet: train_acc: 1	train_loss: 1	test_acc: 1 	
+	SeResNet: train_acc: 1	train_loss: 1	test_acc: 1 	
+
